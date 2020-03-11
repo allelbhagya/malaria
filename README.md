@@ -1,4 +1,4 @@
-# ML_Malaria_bloodcell_classification(image classification)
+# plasmodium(Malaria) bloodcell_classification/(image classification)
 
 # description:
 It is a deep_learnning model for classifying the microscopic parasitic organisim(plasmodium(malaria_parasitic.)) using image data_sets of parasitic and non_parasitic plasmodium content blood_cell
