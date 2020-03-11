@@ -10,8 +10,8 @@ for complite data_sets visit the links given below....
 https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 # prerequisite
-pip install numpy
-pip install pandas
-pip install mateplotlib.pyplot
-pip install tensorflow(2.0)
+pip install numpy,
+pip install pandas,
+pip install mateplotlib.pyplot,
+pip install tensorflow(2.0),
 pip install keras
